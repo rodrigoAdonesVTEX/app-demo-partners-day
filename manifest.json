@@ -1,0 +1,18 @@
+{
+  "vendor": "storesacl",
+  "name": "demoblock",
+  "version": "0.0.1",
+  "title": "DemoBlock",
+  "description": "Block partners day",
+  "builders": {
+    "react": "3.x",
+    "messages": "1.x",
+    "docs": "0.x"
+  },
+  "dependencies": {},
+  "registries": [
+    "smartcheckout"
+  ],
+  "policies": [],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
